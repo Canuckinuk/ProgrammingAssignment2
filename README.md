@@ -1,9 +1,9 @@
-### # Short comment describing this function (the function and the text is heavily inspired by related information to makeVector). 
-#  The  function makeCacheMatrix create a matrix containing a function that:
-# set the value of the matrix
-# get the value of the matrix
-# set the value of the squared inverted matrix
-# get the value of the squared inverted matrix
+#Short comment describing this function (the function and the text is heavily inspired by related information to makeVector). 
+The  function makeCacheMatrix create a matrix containing a function that:
+set the value of the matrix
+get the value of the matrix
+set the value of the squared inverted matrix
+get the value of the squared inverted matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 m <- NULL
